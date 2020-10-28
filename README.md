@@ -3,7 +3,8 @@
 This project contains two Maven projects about the Spring Monitoring using Spring Boot 
 Actuator and Spring Boot Admin.
 
-My post about this project: https://www.vincenzoracca.com/blog/framework/spring/spring-monitoring/
+My post about this project (English language): https://www.vincenzoracca.com/en/blog/framework/spring/spring-monitoring/
+My post about this project (Italian language): https://www.vincenzoracca.com/blog/framework/spring/spring-monitoring/
 
 
 
