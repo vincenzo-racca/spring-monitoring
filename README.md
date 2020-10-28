@@ -1,4 +1,4 @@
-### Spring Monitoring
+### Spring Monitoring with Spring Actuator and Spring Boot Admin
 
 This project contains two Maven projects about the Spring Monitoring using Spring Boot 
 Actuator and Spring Boot Admin.
